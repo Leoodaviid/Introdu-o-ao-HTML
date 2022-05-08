@@ -56,8 +56,7 @@ A linguagem HTML foi criada por **Tim Barners Lee** na década de 1990. As espec
 Além da semântica estrutural, o HTML nos permite descrever o significado de um conteúdo em nível de texto utilizando um conjunto de elementos semânticos. Assim, é possível, por exemplo, destacar os trechos de texto que devem receber algum tipo de destaque.
 
 
-
-![A](C:\Workspace\Introdução a programação na internet\Websites HTML CSS33\A.png)
+![A](https://user-images.githubusercontent.com/104696611/167320986-9973c658-90c8-4d10-ad81-d7e3e4c8a9e7.png)
 
 <a>link</a>
 
@@ -97,7 +96,8 @@ Além da semântica estrutural, o HTML nos permite descrever o significado de um
 <img alt="descrição para foto"
 
 
-
+                              
+![maxresdefault](https://user-images.githubusercontent.com/104696611/167321014-9de5b048-125d-45e5-b6f2-3658d1c0f16c.jpg)
 
 
 
