@@ -96,9 +96,8 @@ Além da semântica estrutural, o HTML nos permite descrever o significado de um
 <img alt="descrição para foto"
 
 
-                              
+​                              
 ![maxresdefault](https://user-images.githubusercontent.com/104696611/167321014-9de5b048-125d-45e5-b6f2-3658d1c0f16c.jpg)
-
 
 
 
